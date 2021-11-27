@@ -1,0 +1,6 @@
+if SHIELD_NYQUIST
+
+config ZMK_KEYBOARD_NAME
+    default "Nyquist"
+
+endif
